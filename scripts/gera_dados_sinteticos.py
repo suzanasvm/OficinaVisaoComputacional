@@ -12,6 +12,7 @@ def gerar_csv(qtd_itens, nome_arquivo="dados_fakes.csv"):
         for _ in range(qtd_itens):
             nome = fake.name()
             tipo = random.choice(tipos_curso)
+            escritor.writerow([nome, tipo])
 
     print(f"{qtd_itens} registros salvos em '{nome_arquivo}'")
 
