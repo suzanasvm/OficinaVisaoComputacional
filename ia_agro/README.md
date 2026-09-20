@@ -38,6 +38,9 @@ Ao longo da atividade, vamos relacionar os conceitos apresentados com situaçõe
 ### Apresentação
 
 [**Acessar os slides da oficina**](https://docs.google.com/presentation/d/1-ZQKNoQqO56f3RTg3UoR6z4K7YZVn8kYPG2YQSf87jw/edit?usp=sharing)
+### Notebook treinamento YOLO
+
+colab: https://colab.research.google.com/drive/1yJPzEnOKJ1GWXQfjlCicDYUWmHeMHxZf?usp=sharing
 
 ## Tecnologias utilizadas
 
